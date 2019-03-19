@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("fe78bbb25f35d56b502327fb6d43b309.png");
+  }
+
+
+.help-me {
+  width: 50%;
+}
+
+.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #A71D31;/* Full height */
+  overflow: hidden; /* Enable scrolling if the sidenav has too much content */
+  width: 100%;
+}
+
+.nav .left {
+  float: left;
+}
+
+.nav .right {
+  float: right;
+}
+
+h1 {
+font-family: 'Press Start 2P', cursive;
+}
+
+.nav li a{
+  display: block;
+  padding: 8px;
+  text-decoration: none;
+font-family: 'Press Start 2P', cursive;
+  color: #F1F0CC;
+  font-size: 100%;
+  margin-top: 7.5%
+}
+
+.home-img {
+  width: 5%
+}
+
+
+.tit {
+  color: white;
+}
+
+.title {
+  width: 100%;
+}
+
+#typed-main {
+font-family: 'Press Start 2P', cursive;
+  font-size: 200%;
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: center;
+  color: white;
+}
+#typed {
+  color: 	#D5BF86
+}
+
+.uwu {
+font-family: 'Press Start 2P', cursive;
+  font-size: 100%;
+  color: white;
+  background-color: #3F0D12;
+  padding: 10%;
+}
+
+
+.owo {
+  padding: 20px;
+  width: 10%;
+  opacity: 75;
+}
+
+.uwu:hover {
+  opacity: 100;
+  cursor: pointer;
+}
